@@ -1,12 +1,12 @@
 {
 	"rosIP": "192.168.0.249",
-	"gravityConstant": 9.81,
 	"simVideoImage": "sim_image",
 	"simDepthImage": "sim_depth",
-	"videoMsgFrequency": 30,
-	"imageCaptureWidth": 1920,
-	"imageCaptureHeight": 1080,
-	"simRrajectory": "sim_trajectory",
-	"simPosition": "sim_position",
-	"simPositionGrequency": 10
+	"simDistanceMeasures": "sim_distance_measures",
+	"videoMsgFrequency": 10,
+	"imageCaptureWidth": 1080,
+	"imageCaptureHeight": 720,
+	"simTargetPosition": "sim_target_position",
+	"simCurrentPosition": "sim_current_position",
+	"simPositionFrequency": 10
 }
