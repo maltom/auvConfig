@@ -1,5 +1,5 @@
 {
-	"rosIP": "192.168.0.249",
+	"rosIP": "192.168.0.10",
 	"simVideoImage": "sim_image",
 	"simDepthImage": "sim_depth",
 	"simDistanceMeasures": "sim_distance_measures",
@@ -8,5 +8,6 @@
 	"imageCaptureHeight": 720,
 	"simTargetPosition": "sim_target_position",
 	"simCurrentPosition": "sim_current_position",
+	"simDeltaPosition": "sim_delta_position",
 	"simPositionFrequency": 10
 }
